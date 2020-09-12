@@ -1,0 +1,2 @@
+# Guruji-Softwares
+We are a global IT company providing custom Web Development and Mobile Applications (Android | iOS) for delivering enhanced user experience and enabling our clients to achieve a higher return on investment, along with marketing services like SEO, SMO, PPC, etc.  Some of the technologies we are masters of are Asp.Net | PHP |Java | WordPress | Magento | Android | iOS | HTML | CSS | Jquery etc.
